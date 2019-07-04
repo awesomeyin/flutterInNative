@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(TabbedAppBarMain());
-///
+
 
 class TabbedAppBarMain extends StatelessWidget {
   var titleList = ['NEWS','LABS'];
