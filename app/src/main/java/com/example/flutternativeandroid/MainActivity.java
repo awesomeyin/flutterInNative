@@ -14,6 +14,11 @@ import android.widget.FrameLayout;
 import io.flutter.facade.Flutter;
 import io.flutter.view.FlutterView;
 
+/*
+* 首页
+*
+* */
+
 public class MainActivity extends AppCompatActivity {
 
     private ViewGroup.LayoutParams layoutParams;
